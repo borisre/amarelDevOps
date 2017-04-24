@@ -1,0 +1,6 @@
+C:\Sources\Amarel\amarelDevOps\bin\Debug\amarelDevOps.exe.config
+C:\Sources\Amarel\amarelDevOps\bin\Debug\amarelDevOps.exe
+C:\Sources\Amarel\amarelDevOps\bin\Debug\amarelDevOps.pdb
+C:\Sources\Amarel\amarelDevOps\obj\Debug\amarelDevOps.csprojResolveAssemblyReference.cache
+C:\Sources\Amarel\amarelDevOps\obj\Debug\amarelDevOps.exe
+C:\Sources\Amarel\amarelDevOps\obj\Debug\amarelDevOps.pdb
