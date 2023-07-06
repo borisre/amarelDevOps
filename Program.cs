@@ -35,7 +35,7 @@ namespace amarelDevOps
             client.EnableSsl = true;
             client.DeliveryMethod = SmtpDeliveryMethod.Network;
             client.UseDefaultCredentials = false;
-            client.Credentials = new NetworkCredential("i.m.devops.eng@gmail.com", "Th1s!st3st");
+            client.Credentials = new NetworkCredential("i.m.devops.eng@gmail.com", "PasswordForThisAccount");
             client.Timeout = 20000;
             try
             {
